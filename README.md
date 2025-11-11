@@ -99,7 +99,9 @@ Server will run at: **[http://localhost:5000](http://localhost:5000)**
 ### 3️⃣ Setup Frontend (React App)
 
 ```bash
+
 cd ../frontend
+npm install react-router-dom react-bootstrap bootstrap axios
 npm install
 npm start
 ```
